@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# To Do list
+# News Grid
 
 In this project, I built a simple HTML page for news by using grid layout.
 
